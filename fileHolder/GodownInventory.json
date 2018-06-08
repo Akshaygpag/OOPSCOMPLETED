@@ -1,0 +1,124 @@
+ [
+     {
+       "rice": [
+         {
+           "type": "long rice",
+           "price": "120",
+           "quantity": "3000"
+         },
+         {
+           "type": "medium rice",
+           "price": "70",
+           "quantity": "7000"
+         },
+         {
+           "type": "small rice",
+           "price": "50",
+           "quantity": "10000"
+         },
+         {
+           "type": "brown rice",
+           "price": "40",
+           "quantity": "3000"
+         },
+         {
+           "type": "japonica rice",
+           "price": "150",
+           "quantity": "500"
+         }
+       ],
+       "nextSupply": "10/10/2018"
+     },
+     {
+       "pulses": [
+         {
+           "type": "Rajma Kashmiri/Horse Gram",
+           "price": "5000",
+           "quantity": "3000"
+         },
+         {
+           "type": "Lobia Black Eye",
+           "price": "70",
+           "quantity": "70"
+         },
+         {
+           "type": "Toor Dal",
+           "price": "42",
+           "quantity": "1000"
+         },
+         {
+           "type": "Chana Dal",
+           "price": "37",
+           "quantity": "1000"
+         },
+         {
+           "type": "kabuli Chana",
+           "price": "69",
+           "quantity": "1500"
+         },
+         {
+           "type": "Masoor Dal",
+           "price": "20",
+           "quantity": "300"
+         },
+         {
+           "type": "Bajra",
+           "price": "90",
+           "quantity": "700"
+         },
+         {
+           "type": "Groundnut",
+           "price": "40",
+           "quantity": "1000"
+         },
+         {
+           "type": "Moth/Matki",
+           "price": "60",
+           "quantity": "300"
+         },
+         
+       ],
+       "nextSupply": "01/11/2018"
+     },
+     {
+       "fruits": [
+         {
+           "type": "apple",
+           "price": "150",
+           "quantity": "500"
+         },
+         {
+           "type": "banana",
+           "price": "40",
+           "quantity": "200"
+         },
+         {
+           "type": "cherry",
+           "price": "150",
+           "quantity": "10"
+         },
+         {
+           "type": "dragon fruit",
+           "price": "80",
+           "quantity": "20"
+         },
+         {
+           "type": "Elderberry",
+           "price": "350",
+           "quantity": "6"
+         },
+         {
+           "type": "fig",
+           "price": "180",
+           "quantity": "100"
+         },
+         {
+           "type": "grapes",
+           "price": "170",
+           "quantity": "700"
+         },
+         
+       ],
+       "nextSupply": "20/12/2018"
+     }
+   ]
